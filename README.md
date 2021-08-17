@@ -1,24 +1,10 @@
-# vue-vuex-reouter
+# vue-vuex-router
 
-## Project setup
-```
-yarn install
-```
+Önceki versiyon ile çok benzer.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+###### Yenilikler:
+- Vue Router ile ekleme sayfası ayrıldı.
+- Vue router ile pagination yapıldı
+- Vuex kullanılarak bir yapı oluşturuldu ve localstorage ile entegre edildi.
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Buradan canlı versiyonuna ulaşabilirsin!
