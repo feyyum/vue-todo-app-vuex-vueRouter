@@ -7,4 +7,4 @@
 - Vue router ile pagination yapıldı
 - Vuex kullanılarak bir yapı oluşturuldu ve localstorage ile entegre edildi.
 
-Buradan canlı versiyonuna ulaşabilirsin!
+[Buradan](https://sleepy-morse-8ecbb9.netlify.app/#/) canlı versiyonuna ulaşabilirsin!
